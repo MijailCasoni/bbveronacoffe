@@ -1,0 +1,10 @@
+.small-logo {
+    height: 40px; /* Ajusta la altura del logo según sea necesario */
+    width: auto; /* Mantén la proporción del logo */
+  }
+  
+  .navbar-logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
